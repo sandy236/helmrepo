@@ -9,6 +9,6 @@ entries:
     name: payment
     type: application
     urls:
-    - https://github.com/sandy236/helmrepo/payment-0.1.0.tgz
+    - https://sandy236.github.io/helmrepo/payment-0.1.0.tgz
     version: 0.1.0
 generated: "2024-04-18T16:04:52.935924659+05:30"
