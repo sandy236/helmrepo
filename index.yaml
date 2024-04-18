@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  payment:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-18T16:04:52.936669188+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 9fa8bf1a6341077959bd9f50990835e9a9d5f23e60e2e7cb2a22d75dfd6df12e
+    name: payment
+    type: application
+    urls:
+    - https://github.com/sandy236/helmrepo/payment-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-04-18T16:04:52.935924659+05:30"
